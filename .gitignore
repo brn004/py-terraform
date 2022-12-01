@@ -1,0 +1,35 @@
+# terraform
+*.tfstate
+*.tfstate.backup
+
+# python
+*.pyc
+*.egg-info
+.cache
+__pycache__
+/.pypirc
+dist/
+build/
+/pytestdebug.log
+.pytestdebug.log
+
+# virtualenv
+.virtualenv/
+venv/
+
+
+# Intellij
+.idea
+.idea/
+
+# VSCode
+.vscode/
+pyrightconfig.json
+tmp.txt
+
+# other
+.dropbox
+.DS_Store
+/.tox/
+env/
+Icon
